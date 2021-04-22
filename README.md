@@ -8,7 +8,7 @@
 
 # Organization
 
-- @piyaDevelopment (piyaWorkIPST)
+- @piyaWorkIPST (piyaDevelopment)
 
 # Notable Works
 
