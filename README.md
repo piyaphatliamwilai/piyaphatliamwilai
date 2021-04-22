@@ -1,10 +1,24 @@
 # Hiya, let me introduce myself.
 
 - 👋 Hi, I’m Piyaphat Liamwilai.
-- 😎 A weird 14-years old Thai student, currently learning Computer Science.
+- 😎 A weird 14-years old Thai student, currently learning Science and Mathematics.
+- 📚 2 months self-taught Python programmer. 
 - 👀 I'm interested in Java, Python and Website.
 - 🌎 A geography nerd
 
 # Organization
 
 - @piyaDevelopment (piyaWorkIPST)
+
+# Notable Works
+
+- piyaDevelopment's Website (https://github.com/piyaWorKIPST/piyaMainWebsite)
+- piyaCalculator (https://github.com/piyaWorkIPST/piyaCalculator)
+- piyaHWAlert (https://github.com/piyaWorkIPST/piyaHWAlert)
+- Exponent Finder (https://github.com/piyaphatliamwilai/exponent-finder)
+
+# Statistics
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyaphatliamwilai&show_icons=true&locale=en&layout=compact" alt="piyaphatliamwilai" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyaphatliamwilai&show_icons=true&locale=en" alt="piyaphatliamwilai" /></p>
