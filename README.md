@@ -6,6 +6,10 @@
 - 👀 I'm interested in Java, Python and Website.
 - 🌎 A geography nerd
 
+# About
+
+A 14-years old self-taught python coder and a geography nerd, most of my projects are aimed to automating my homeworks that I recieved from my teachers.
+
 # Organization
 
 - @piyaWorkIPST (piyaDevelopment)
