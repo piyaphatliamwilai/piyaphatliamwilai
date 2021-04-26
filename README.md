@@ -21,6 +21,10 @@ A 14-years old self-taught python coder and a geography nerd, most of my project
 - piyaHWAlert (https://github.com/piyaWorkIPST/piyaHWAlert)
 - Exponent Finder (https://github.com/piyaphatliamwilai/exponent-finder)
 
+# Contacts 
+
+- Discord (stengt#0001)
+
 # Statistics
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyaphatliamwilai&show_icons=true&locale=en&layout=compact" alt="piyaphatliamwilai" /></p>
