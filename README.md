@@ -3,6 +3,8 @@
 - 👋 Hi, I’m Piyaphat Liamwilai.
 - 😎 A weird 14-years old Thai student, currently learning Science and Mathematics.
 - 📚 2 months self-taught Python programmer. 
+- 📑 1 month self-taught Java programmer.
+- ⛏ Minecraft IGN : Kornaut 
 - 👀 I'm interested in Java, Python and Website.
 - 🌎 A geography nerd
 
