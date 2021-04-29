@@ -26,6 +26,11 @@ A 14-years old self-taught python coder and a geography nerd, most of my project
 
 - Discord (stengt#0001)
 
+# Current Projects
+
+- noathack.cc (A 1.12.2 utility-mod for noatmc)
+- Exponent Finder (The name explains itself)
+
 # Statistics
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyaphatliamwilai&show_icons=true&locale=en&layout=compact" alt="piyaphatliamwilai" /></p>
