@@ -30,7 +30,7 @@ A 14-years old self-taught python coder and a geography nerd, most of my project
 
 # Current Projects
 
-- Exponent Finder (The name explains itself)
+- None
 
 # Statistics
 
