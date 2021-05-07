@@ -36,4 +36,3 @@ A 14-years old self-taught python coder and a geography nerd, most of my project
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyaphatliamwilai&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![piyaphatliamwilai's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyaphatliamwilai&show_icons=true&theme=dark)
-[![piyaphatliamwilai's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=piyaphatliamwilai&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
