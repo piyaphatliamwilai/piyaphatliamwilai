@@ -30,7 +30,7 @@ A 14-years old self-taught python coder and a geography nerd, most of my project
 
 # Current Projects
 
-- None
+- Dynamic - A skid of momentum
 
 # Statistics
 
