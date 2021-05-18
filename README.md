@@ -24,10 +24,6 @@ A 14-years old self-taught python coder and a geography nerd, most of my project
 - Exponent Finder (https://github.com/piyaphatliamwilai/exponent-finder)
 - Prime Number Checker (https://github.com/piyaphatliamwilai/prime-number-checker)
 
-# Contacts 
-
-- Discord (stengt#0001)
-
 # Current Projects
 
 - None
