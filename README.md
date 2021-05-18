@@ -10,7 +10,7 @@
 
 # About
 
-A 14-years old self-taught python coder and a geography nerd, most of my projects are aimed to automating my homeworks that I recieved from my teachers.
+i write code for fun and most of my coding program goes to automating my homeworks!
 
 # Organization
 
