@@ -1,1 +1,6 @@
-![image](https://github.com/piyaphatliamwilai/piyaphatliamwilai/assets/82884260/d505885b-ddbc-46d3-970d-bc489652f2fc)
+### 👋 Hello, I am Piyaphat Liamwilai. 
+I am a computer science student studying at Assumption College Sriracha.
+### 🎖️ Achievements
+🥈 - Thailand National MakeX Challenger Competition
+🥉 - MakeX Explorer Royal Cup
+---
