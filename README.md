@@ -1,5 +1,5 @@
 ### 👋 Hello, I am Piyaphat Liamwilai. 
-I am a computer science student studying at Assumption College Sriracha.
+I am a grade 10 computer science student studying at Assumption College Sriracha.
 ### 🎖️ Achievements
 🥇 - MakeX Challenger Warmup [2024]
 
