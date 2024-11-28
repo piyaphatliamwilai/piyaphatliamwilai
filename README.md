@@ -14,11 +14,6 @@ I am a grade 10 computer science student studying at Assumption College Sriracha
 - ข้าวเหนียวหมูปิ้ง: 🥉 Sawangboriboon Cup
 #### MakeX Challenger 2024
 - Gemini: 🥇 MakeX Challenger Warmup
-### 📃 Works
-#### MakeX-related
-- [MakeX Challenger Team Gemini Code](https://github.com/piyaphatliamwilai/makex-resources)
-- [Holonomic mecanum drive for NovaPi](https://github.com/neumann-lab/holonomic-mecanum)
-- [Odometry for NovaPi](https://github.com/neumann-lab/odometry-novapi)
 ### ✉️ Contacts
 ##### piyaphatliamwilai@gmail.com
 ##### ig: autpiyaphat
